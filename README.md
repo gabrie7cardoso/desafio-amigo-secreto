@@ -1,4 +1,4 @@
-# 🎯 Challenge Iniciante em Programação – Sorteador de Amigo Secreto
+# 🎯 Challenge de Iniciante em Programação – Amigo Secreto
 
 Este repositório contém a solução do desafio **"Amigo Secreto"**, proposto no programa **ONE - Oracle Next Education** pela **Alura**, como parte da metodologia baseada em *Challenge-Based Learning*.
 
